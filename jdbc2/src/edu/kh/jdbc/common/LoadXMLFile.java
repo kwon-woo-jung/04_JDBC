@@ -46,20 +46,7 @@ public class LoadXMLFile {
 			 * */
 			
 			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
+
 			
 			
 		} catch (Exception e) {
